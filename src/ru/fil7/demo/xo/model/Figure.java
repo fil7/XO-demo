@@ -1,4 +1,4 @@
-package ru.fil7.demo.xo;
+package ru.fil7.demo.xo.model;
 
 public enum Figure {
     X, O

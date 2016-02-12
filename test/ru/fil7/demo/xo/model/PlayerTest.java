@@ -1,7 +1,7 @@
-package ru.fil7.demo.xo;
+package ru.fil7.demo.xo.model;
 
-import org.junit.Test;
 import org.junit.Assert;
+import org.junit.Test;
 
 public class PlayerTest {
 
